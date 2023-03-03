@@ -4,5 +4,9 @@ div{
     padding: 10px;
 }
 h1{
-    color: rgb(146, 24, 7)
+    color: rgb(146, 24, 7);
+    background-color: coral;
+}
+p{
+    background-color: rgb(255, 181, 154);
 }
