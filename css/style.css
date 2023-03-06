@@ -1,12 +1,19 @@
 div{
     text-align: center;
-    border: 1px solid black;
-    padding: 10px;
+    padding:0;
+    margin: 30px auto ;
+    width: 80%;
+
 }
 h1{
-    color: rgb(146, 24, 7);
+    margin:0;
+    padding-bottom: 10px;
+    color: rgb(41, 13, 10);
     background-color: coral;
 }
 p{
     background-color: rgb(255, 181, 154);
+    margin: 0;
+    padding: 10px 20px ;
+    font-weight: bold;
 }
