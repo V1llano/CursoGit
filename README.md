@@ -1,2 +1,1 @@
-# blogGit
-Proyecto de prueba del curso de Git y GitHub
+c398c7c66255cd8972e3ba24846479ca50d402b8
